@@ -1,0 +1,13 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.exe
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.runtimeconfig.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.runtimeconfig.dev.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\bin\Debug\netcoreapp3.1\CustomNode.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\CustomNode\obj\Debug\netcoreapp3.1\CustomNode.genruntimeconfig.cache

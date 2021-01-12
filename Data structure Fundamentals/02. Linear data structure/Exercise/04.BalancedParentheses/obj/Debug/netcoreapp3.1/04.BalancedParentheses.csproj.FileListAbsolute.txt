@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb

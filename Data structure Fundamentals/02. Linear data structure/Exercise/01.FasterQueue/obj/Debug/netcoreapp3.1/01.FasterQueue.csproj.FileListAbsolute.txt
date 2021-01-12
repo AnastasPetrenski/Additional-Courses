@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb

@@ -1,0 +1,124 @@
+Stack:   	 Node :	- int Value;
+		- Node Next;
+
+1.value 59
+var element = new Node(59)
+		Value = 59
+		Next = Null
+2.value 95
+var element = new Node(95)
+		Value 95
+		Next =    Value 59
+			  Next = Null
+3.value 65
+var element = new Node(65)
+			Value 65
+			Next =	  Value 95
+			 	  Next =   Value 59
+					   Next = Null
+this._head = null;
+new element (Value = 59, Next = Null)
+element.Next = this._head;
+this._head = element (value = 59, Next = (this.head = null));
+
+new element (value = 95, Next = null);
+element.Next = this._head(element (value = 59, Next = (this.head = null)));
+this._head = element(value = 95, Next = this._head(element (value = 59, Next = (this.head = null))))
+
+new element (value = 65, Next = null);
+element.Next = this._head(value = 95, Next = this._head(element (value = 59, Next = (this.head = null))))
+this._head = element(value = 65, Next = this._head(value = 95, Next = this._head(element (value = 59, Next = (this.head = null)))))
+
+Queue:
+1.value 81
+var element = new Node(81)
+		value = 81	
+		Head = Null
+2. value 35
+var element = new Node(35)
+		value = 35
+		Head = Null
+3. value 67
+var element = new Node(67)
+		value = 67
+		Head = Null
+
+//if (this._head == null)
+this._head = element(value = 81, Head = Null)
+
+//else While(current.Head != null) => current.Head = element
+this._head = (value = 81, Head = (element(value = 35, Head = null)))
+this._head = (value = 81, Head = (value = 35, Head = element(value 67, Head = null)))
+
+
+Faster Queue
+var element1 = new Node(1)
+		Value = 1
+		Next= null
+		Previous = null
+
+var element2 = new Node(2)
+		Value = 2
+		Next= null
+		Previous = null
+
+var element3 = new Node(3)
+		Value = 3
+		Next= null		
+		Previous = null
+
+==> Add element1
+this._head = this._tail = element1(value = 1, Next= null, Previous=null)
+
+==> Add element2
+this._head (value 1, Next = element2(value = 2, Next = null)) // coz head have same referance with tail and they point to element1 
+this._tail (value = 1, Next = element 2(value = 2, Next = null))
+this._tail = element2(value = 2, Next = null) // here we change the reference of tail from element1 to element2
+
+==> Add element3
+this._head (value 1, Next = value = 2, Next = element3( value = 3, Next = null)) // coz head have same referance with tail and they point to element2 
+this._tail (value = 2, Next = element 3(value = 3, Next = null))
+this._tail = element3(value = 3, Next = null) // here we change the reference of tail from element2 to element3
+
+
+
+
+
+
+
+Node<T> toInsert(n) :    Value = T 
+	   	Head = Node (value, Next)
+	   	Tail = Node (value, Previous)
+
+if (this.Size == 0)
+            {
+                this.head = this.tail = toInsert(1);
+            }
+            else
+            {
+                this.head.Previous = toInsert(2);
+                toInsert(2).Next = this.head;
+                this.head = toInsert(2);
+            }
+
+            this.Size++;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\02. Linear data structure\Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb
