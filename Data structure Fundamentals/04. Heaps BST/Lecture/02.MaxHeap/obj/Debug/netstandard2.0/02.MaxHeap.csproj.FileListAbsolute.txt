@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb

@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

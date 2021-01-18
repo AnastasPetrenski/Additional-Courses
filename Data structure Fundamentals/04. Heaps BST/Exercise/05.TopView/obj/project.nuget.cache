@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrJOOWeVHfzXvDpUgtpSvybAa7KLFDe1CgC4e4qIj6kCrbSTjkrlPr8cnL0fc1cG6PsU78wZlbza4f1D3VzUcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\Desktop\\Задачи от курс\\SoftUni\\05 Data structures Fundamentals\\04. Heaps BST\\Exercise\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BjeNpWOOKXnNquk0C3Ap1tFwmz17BH2orGn4Jq1K78RM06QxQV51LvyYnTo3RGL8Lwgr4H0Ngv9f4xPvwIAjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\Desktop\\Задачи от курс\\SoftUni\\05 Data structures Fundamentals\\04. Heaps BST\\Lecture\\04.BinarySearchTree\\04.BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

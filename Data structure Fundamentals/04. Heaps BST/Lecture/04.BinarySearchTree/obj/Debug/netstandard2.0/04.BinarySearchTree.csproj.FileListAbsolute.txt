@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.pdb

@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\04. Heaps BST\Lecture\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.pdb
