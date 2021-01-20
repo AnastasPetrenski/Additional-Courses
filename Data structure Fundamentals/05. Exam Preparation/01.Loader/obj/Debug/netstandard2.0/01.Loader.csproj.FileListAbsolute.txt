@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\bin\Debug\netstandard2.0\01.Loader.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\bin\Debug\netstandard2.0\01.Loader.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\bin\Debug\netstandard2.0\01.Loader.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\01.Loader\obj\Debug\netstandard2.0\01.Loader.pdb

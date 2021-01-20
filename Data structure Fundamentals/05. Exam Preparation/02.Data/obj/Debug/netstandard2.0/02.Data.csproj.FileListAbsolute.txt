@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\bin\Debug\netstandard2.0\02.Data.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\bin\Debug\netstandard2.0\02.Data.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\bin\Debug\netstandard2.0\02.Data.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\05. Exam Preparation\02.Data\obj\Debug\netstandard2.0\02.Data.pdb
