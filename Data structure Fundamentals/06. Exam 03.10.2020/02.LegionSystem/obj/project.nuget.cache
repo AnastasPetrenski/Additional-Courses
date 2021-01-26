@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnRHHonL1XjlP/zFCfu/VCWrczfQNNUKwVzunxz2iLQU+H3fPBsk3acS8cJwX+dPMZM2Xx6xyrJ2KsA8Du47Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\Desktop\\Задачи от курс\\SoftUni\\05 Data structures Fundamentals\\06. Exam 03.10.2020\\02.LegionSystem\\02.LegionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\xact.wintellect.powercollections\\0.0.1\\xact.wintellect.powercollections.0.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Wintellect.PowerCollections 0.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Wintellect.PowerCollections",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

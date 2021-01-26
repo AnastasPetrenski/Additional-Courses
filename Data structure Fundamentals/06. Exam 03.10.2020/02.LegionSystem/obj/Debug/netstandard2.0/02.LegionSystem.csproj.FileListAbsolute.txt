@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.pdb

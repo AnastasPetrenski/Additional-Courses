@@ -1,0 +1,9 @@
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csprojAssemblyReference.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\anastas\Desktop\Задачи от курс\SoftUni\05 Data structures Fundamentals\06. Exam 03.10.2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb
